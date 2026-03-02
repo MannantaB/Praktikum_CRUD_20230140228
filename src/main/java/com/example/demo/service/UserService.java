@@ -1,4 +1,4 @@
-package com.example.demo.service.lmpl;
+package com.example.demo.service;
 
 import com.example.demo.model.dto.UserAddRequest;
 import com.example.demo.model.dto.UserDto;
